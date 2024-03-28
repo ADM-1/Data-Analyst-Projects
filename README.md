@@ -4,9 +4,9 @@ The collection contains 2 SQL projects including an analysis overview of the who
 
 --SQL
 
--A simulated analysis where with questions, objectives and results regarding an Apple Store DB containing sale information, the data was available on Kaggle's resources;
+- A simulated analysis where with questions, objectives and results regarding an Apple Store DB containing sale information, the data was available on Kaggle's resources;
 
--The final capstone project of the first UC Davis' course on "Data Analysis with SQL".
+- The final capstone project of the first UC Davis' course on "Data Analysis with SQL".
 
 --PYTHON
 
